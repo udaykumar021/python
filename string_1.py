@@ -1,0 +1,12 @@
+str="UDAY KUMAR REDDY"
+print(str[0])
+print(str[2])
+print(str[1])
+print(str[0:6])
+print(str[3:-3])
+print(str[7:16])
+print(str[:-9])
+print(str[::1])
+print(str[1::2])
+print(str[::-2])
+print(str)
